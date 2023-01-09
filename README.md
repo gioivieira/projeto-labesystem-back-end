@@ -36,10 +36,6 @@ https://labenu-system.onrender.com
 - MySQL
 
 ## 🛰Running the project
-1. git clone https://github.com/future4code/Barros-labenu-system2.git
-2. cd Barros-labenu-system2
-3. npm install
-4. npm run start
-
-## Image
-![Image-workbench](./print-workbench.png)
+1. git clone https://github.com/gioivieira/projeto-labesystem-back-end.git
+2. npm install
+3. npm run start
